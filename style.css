@@ -1,11 +1,19 @@
+*{
+   background-color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+}
+
 h1 {
-    color: navy;
+    color: rgb(8, 221, 12);
+    font-size: 100px;
 }
 
 p {
+    font-size: 48px;
     font-weight: bold;
 }
 
-li {
-    font-size: 20px;
+li  {
+    font-size: 24px;
+    color: rgb(243, 219, 35);
 }
